@@ -1,0 +1,4 @@
+data/
+qc/
+.snakemake/
+databases/
