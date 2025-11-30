@@ -1,4 +1,18 @@
+# Heavy Data & Results
 data/
+results/
+krakendb/
+
+# Intermediate Files & Reports
 qc/
 .snakemake/
-databases/
+
+# Generated Query Files (The notebook creates them)
+*.fasta
+
+# System & Python Files
+.ipynb_checkpoints
+__pycache__
+env/
+miniconda3/
+.DS_Store
