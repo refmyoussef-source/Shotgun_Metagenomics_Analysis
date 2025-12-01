@@ -14,7 +14,7 @@ Our goal was to go beyond simple bacterial lists and explore **microbial load (b
     * 🔴 **T2D Group:** 60 Samples
     * 🟢 **Control Group:** 60 Samples
 * **Method:** Shotgun Metagenomic Sequencing.
-* **Pipeline Manager:** Snakemake.
+* **Pipeline Manager:** Snakemake
 
 ---
 
