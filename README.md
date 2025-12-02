@@ -1,7 +1,7 @@
 # 🧬 Metagenomic Analysis: Type 2 Diabetes vs. Healthy Controls
 
 ## 📖 Project Overview
-This project investigates the gut microbiome differences between **Type 2 Diabetes (T2D)** patients and **Healthy Controls**. Using 120 metagenomic samples, we built a bioinformatics pipeline to answer two fundamental questions:
+This project investigates the differences in gut microbiomes between patients with **Type 2 Diabetes (T2D)** and **Healthy Controls**. Using 120 metagenomic samples, we built a bioinformatics pipeline to answer two fundamental questions:
 1.  **Taxonomy:** Who is there? (Bacterial composition)
 2.  **Function:** What are they doing? (Metabolic potential)
 
